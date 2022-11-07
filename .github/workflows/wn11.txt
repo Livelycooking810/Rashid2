@@ -1,0 +1,44 @@
+
+______________________________________________________________________________________________________
+These command for downloading winodows in your droplets(VPS)
+
+
+Use this command to install = wget -O- https://www.dropbox.com/s/bolrddmasyrpf2o/Windows11byronit.gz?dl=1 | gunzip | dd of=/dev/vda
+
+alternative download command = wget -O- https://ia801504.us.archive.org/34/items/windows-11byronit/Windows11byronit.gz | gunzip | dd of=/dev/vda
+
+There're two download command, if each doesn't work you can use alternative one. 
+______________________________________________________________________________________________________
+Login credential 
+IP - ( your public provided by digitalocean)
+User - joker20047@outlook.com
+Pass - Noob@123
+______________________________________________________________________________________________________
+
+Password of Windows 11 (use in console to unlocking the windows) - Noob@12345678
+______________________________________________________________________________________________________
+___________________________________________________________________________________________________________________
+
+If you don't have digitalocean account create an accuont using given below link to get free 100$ credit. 
+if you create account using this link, 
+you'll get free 100$ in digitalocean = https://m.do.co/c/f7e5ba94d9a7
+
+___________________________________________________________________________________________________________________
+If you've created an account, and want 100$ credit contact him on telegram = @Noob_Hackerz
+But he'll charge
+
+
+___________________________________________________________________________________________________________________
+
+Follow me on twitter to contact me = https://twitter.com/ronitsharma2004
+Twitter username = @ronitsharma2004 
+My own telegram username = @megatopia
+
+___________________________________________________________________________________________________________________
+
+
+
+
+
+
+
